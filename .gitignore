@@ -1,0 +1,10 @@
+# Secretos y variables locales
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
